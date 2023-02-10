@@ -130,6 +130,6 @@ dmypy.json
 
 # manual files & folders
 data/
-Music Downloader & Converter/mp3/*.wav
+Music Downloader & Converter/mp3/*.mp3
 Music Downloader & Converter/wav/*.wav
 Music Downloader & Converter/*.wav
