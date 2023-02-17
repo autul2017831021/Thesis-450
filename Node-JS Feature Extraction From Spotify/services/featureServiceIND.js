@@ -1,21 +1,21 @@
-const { getFeatureApiData,getTrackApiData } = require('./apiService')
+const { getFeatureApiData,getTrackApiData } = require('./apiServiceIND')
 const { makeUrl } = require('../helpers/utility')
-const {bangladeshiSongs,kolkataSongs} = require('../models/trackIdModel')
+const { kolkataSongs } = require('../models/trackIdModel')
 const { nullFeatureObj } = require('../models/featureModel')
 const audioFeaturesApi = process.env.GET_AUDIO_FEATURES != '' ? process.env.GET_AUDIO_FEATURES : 'https://api.spotify.com/v1/audio-features/'
 const tracksApi = process.env.GET_TRACKS != '' ? process.env.GET_TRACKS : 'https://api.spotify.com/v1/tracks/'
 
 async function getFeatures(bearer){
     features = []
-    for (let i = 0; i < bangladeshiSongs.length; i++) {
+    for (let i = 0; i < kolkataSongs.length; i++) {
         const obj = new Object()
         obj['Status'] = {
             "Success" : true,
             "Message" : "Successfully Retrieved Features"
         }
-        obj['Country'] = bangladeshiSongs[i]['Country']
-        obj['Song Name'] = bangladeshiSongs[i]['Song Name']
-        obj['Tracking Id'] = bangladeshiSongs[i]['Tracking Id']
+        obj['Country'] = kolkataSongs[i]['Country']
+        obj['Song Name'] = kolkataSongs[i]['Song Name']
+        obj['Tracking Id'] = kolkataSongs[i]['Tracking Id']
         trackingId = obj['Tracking Id']
         if(trackingId === null || trackingId === 'N/A' || trackingId === 'na' ){
             obj['Status'] = {
@@ -32,9 +32,9 @@ async function getFeatures(bearer){
         }
         features.push(obj)
     }
-    for (let i = 0; i < bangladeshiSongs.length; i++) {
+    for (let i = 0; i < kolkataSongs.length; i++) {
         const obj = new Object()
-        obj['Tracking Id'] = bangladeshiSongs[i]['Tracking Id']
+        obj['Tracking Id'] = kolkataSongs[i]['Tracking Id']
         trackingId = obj['Tracking Id']
         if(trackingId === null || trackingId === 'N/A' || trackingId === 'na' ){
             features[i]['Popularity'] = null
@@ -48,7 +48,7 @@ async function getFeatures(bearer){
             features[i]['Popularity'] = typeof track !== 'undefined' ? track.popularity : 404
         }
     }
-    // console.log(bangladeshiSongs.length)
+    // console.log(kolkataSongs.length)
     return features
 }
 async function getFeaturesById(id, bearer){

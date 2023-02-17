@@ -1,4 +1,4 @@
-const { getFeatures, getFeaturesById} = require('../services/featureService.js')
+const { getFeatures, getFeaturesById} = require('../services/featureServiceBD.js')
 const { commonResponse } = require('../helpers/utility.js')
 
 
