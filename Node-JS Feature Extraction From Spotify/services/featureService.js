@@ -1,13 +1,13 @@
-const { getApiData } = require('./apiService')
+const { getFeatureApiData,getTrackApiData } = require('./apiService')
 const { makeUrl } = require('../helpers/utility')
 const {bangladeshiSongs,kolkataSongs} = require('../models/trackIdModel')
 const { nullFeatureObj } = require('../models/featureModel')
 const audioFeaturesApi = process.env.GET_AUDIO_FEATURES != '' ? process.env.GET_AUDIO_FEATURES : 'https://api.spotify.com/v1/audio-features/'
+const tracksApi = process.env.GET_TRACKS != '' ? process.env.GET_TRACKS : 'https://api.spotify.com/v1/tracks/'
 
 async function getFeatures(bearer){
     features = []
     for (let i = 0; i < bangladeshiSongs.length; i++) {
-        // if(typeof bangladeshiSongs[i]['Tracking Id'] !== null || bangladeshiSongs[i]['Tracking Id'] !== 'na' || bangladeshiSongs[i]['Tracking Id'] !== 'N/A'){
         const obj = new Object()
         obj['Status'] = {
             "Success" : true,
@@ -25,19 +25,38 @@ async function getFeatures(bearer){
             obj['Features'] = nullFeatureObj
         }
         else{
-            url = makeUrl(audioFeaturesApi,trackingId)
-            const featuresObj = await getApiData(url,bearer)
+            featureUrl = makeUrl(audioFeaturesApi,trackingId)
+            trackUrl = makeUrl(tracksApi,trackingId)
+            const featuresObj = await getFeatureApiData(featureUrl,bearer)
             obj['Features'] = featuresObj
         }
         features.push(obj)
-        // }
+    }
+    for (let i = 0; i < bangladeshiSongs.length; i++) {
+        const obj = new Object()
+        obj['Tracking Id'] = bangladeshiSongs[i]['Tracking Id']
+        trackingId = obj['Tracking Id']
+        if(trackingId === null || trackingId === 'N/A' || trackingId === 'na' ){
+            features[i]['Popularity'] = null
+        }
+        else{
+            trackUrl = makeUrl(tracksApi,trackingId)
+            const track = await getTrackApiData(trackUrl,bearer)
+            if(typeof track === 'undefined'){
+                console.log(i,features[i]['Song Name'],trackUrl)
+            }
+            features[i]['Popularity'] = typeof track !== 'undefined' ? track.popularity : "Some API Error Must Happened, Try Again"
+        }
     }
     // console.log(bangladeshiSongs.length)
     return features
 }
 async function getFeaturesById(id, bearer){
-    url = makeUrl(audioFeaturesApi,id)
-    var featuresObj = await getApiData(url,bearer)
+    featureUrl = makeUrl(audioFeaturesApi,id)
+    trackUrl = makeUrl(tracksApi,id)
+    var featuresObj = await getFeatureApiData(featureUrl,bearer)
+    const track = await getTrackApiData(trackUrl,bearer)
+    featuresObj.Popularoty = track.popularity
     return featuresObj
 }
 

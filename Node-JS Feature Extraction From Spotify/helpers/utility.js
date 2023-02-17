@@ -22,7 +22,7 @@ function commonResponse(response,content,contentType){
         response.end(JSON.stringify(content) )
         console.log('Response Time : ',getApiReqResTime(dateObj) )
         console.log('Response Code : ',response.statusCode)
-        console.log(content)
+        // console.log(content)
     }
     
 }
