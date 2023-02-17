@@ -135,3 +135,7 @@ Music Downloader & Converter/wav/*.wav
 Music Downloader & Converter/*.wav
 Music Downloader & Converter/bangladesh_song_folder/*.wav
 Music Downloader & Converter/kolkata_song_folder/*.wav
+# Node-JS Feature Extraction From Spotify/
+Node-JS Feature Extraction From Spotify/node_modules
+Node-JS Feature Extraction From Spotify/.env
+python Codes/
