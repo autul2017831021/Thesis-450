@@ -45,7 +45,7 @@ async function getFeatures(bearer){
             if(typeof track === 'undefined'){
                 console.log(i,features[i]['Song Name'],trackUrl)
             }
-            features[i]['Popularity'] = typeof track !== 'undefined' ? track.popularity : "Some API Error Must Happened, Try Again"
+            features[i]['Popularity'] = typeof track !== 'undefined' ? track.popularity : 404
         }
     }
     // console.log(bangladeshiSongs.length)
