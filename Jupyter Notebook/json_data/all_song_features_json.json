@@ -2766,28 +2766,28 @@
     },
     "Country": 0,
     "Song Name": "Amar Bhindeshi Tara - Chondrobindu (Lyrics).wav",
-    "Tracking Id": "1BtGIviQjeBQmg0kGXYAL8",
+    "Tracking Id": "5cNMVwMK6sMGzg7jvaTXZb",
     "Features": {
-      "danceability": 0.457,
-      "energy": 0.178,
-      "key": 4,
-      "loudness": -17.548,
+      "danceability": 0.543,
+      "energy": 0.148,
+      "key": 7,
+      "loudness": -11.755,
       "mode": 1,
-      "speechiness": 0.0437,
-      "acousticness": 0.884,
-      "instrumentalness": 0.0383,
-      "liveness": 0.1,
-      "valence": 0.453,
-      "tempo": 99.71,
+      "speechiness": 0.0357,
+      "acousticness": 0.861,
+      "instrumentalness": 0,
+      "liveness": 0.103,
+      "valence": 0.376,
+      "tempo": 120.973,
       "type": "audio_features",
-      "id": "1BtGIviQjeBQmg0kGXYAL8",
-      "uri": "spotify:track:1BtGIviQjeBQmg0kGXYAL8",
-      "track_href": "https://api.spotify.com/v1/tracks/1BtGIviQjeBQmg0kGXYAL8",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1BtGIviQjeBQmg0kGXYAL8",
-      "duration_ms": 309870,
+      "id": "5cNMVwMK6sMGzg7jvaTXZb",
+      "uri": "spotify:track:5cNMVwMK6sMGzg7jvaTXZb",
+      "track_href": "https://api.spotify.com/v1/tracks/5cNMVwMK6sMGzg7jvaTXZb",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cNMVwMK6sMGzg7jvaTXZb",
+      "duration_ms": 276586,
       "time_signature": 4
     },
-    "Popularity": 38
+    "Popularity": 35
   },
   {
     "Status": {
@@ -2916,58 +2916,58 @@
     },
     "Country": 0,
     "Song Name": "Aro Ekber Fossils Audio Song Rupam Islam.wav",
-    "Tracking Id": "4Y15H0iRDHRHWLv66ThLyE",
+    "Tracking Id": "1cUq9SX7nQL1u0kKyhT7lX",
     "Features": {
-      "danceability": 0.382,
-      "energy": 0.506,
-      "key": 8,
-      "loudness": -11.155,
+      "danceability": 0.387,
+      "energy": 0.475,
+      "key": 3,
+      "loudness": -12.249,
       "mode": 1,
       "speechiness": 0.0341,
-      "acousticness": 0.0787,
-      "instrumentalness": 0.000331,
-      "liveness": 0.0777,
-      "valence": 0.148,
-      "tempo": 136.951,
+      "acousticness": 0.0734,
+      "instrumentalness": 0.000527,
+      "liveness": 0.044,
+      "valence": 0.157,
+      "tempo": 137.129,
       "type": "audio_features",
-      "id": "4Y15H0iRDHRHWLv66ThLyE",
-      "uri": "spotify:track:4Y15H0iRDHRHWLv66ThLyE",
-      "track_href": "https://api.spotify.com/v1/tracks/4Y15H0iRDHRHWLv66ThLyE",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Y15H0iRDHRHWLv66ThLyE",
-      "duration_ms": 400510,
+      "id": "1cUq9SX7nQL1u0kKyhT7lX",
+      "uri": "spotify:track:1cUq9SX7nQL1u0kKyhT7lX",
+      "track_href": "https://api.spotify.com/v1/tracks/1cUq9SX7nQL1u0kKyhT7lX",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1cUq9SX7nQL1u0kKyhT7lX",
+      "duration_ms": 404246,
       "time_signature": 4
     },
-    "Popularity": 24
+    "Popularity": 44
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Baari Esho.wav",
-    "Tracking Id": null,
+    "Tracking Id": "2m7RTmquaMLABxx699eEPf",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.549,
+      "energy": 0.935,
+      "key": 1,
+      "loudness": -5.063,
+      "mode": 0,
+      "speechiness": 0.0933,
+      "acousticness": 0.0128,
+      "instrumentalness": 0.0000254,
+      "liveness": 0.203,
+      "valence": 0.413,
+      "tempo": 136.908,
+      "type": "audio_features",
+      "id": "2m7RTmquaMLABxx699eEPf",
+      "uri": "spotify:track:2m7RTmquaMLABxx699eEPf",
+      "track_href": "https://api.spotify.com/v1/tracks/2m7RTmquaMLABxx699eEPf",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2m7RTmquaMLABxx699eEPf",
+      "duration_ms": 311912,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 30
   },
   {
     "Status": {
@@ -3006,28 +3006,28 @@
     },
     "Country": 0,
     "Song Name": "Bhalo Lage - Moheener Ghoraguli II ভালোবাসি জ্যোৎস্নায় কাশবনে ছুটতে (Lyrics).wav",
-    "Tracking Id": "3FyG3XJD5cUj4OfuyvYAgX",
+    "Tracking Id": "3ZibjqwYJgKZmXc747FYq3",
     "Features": {
-      "danceability": 0.521,
-      "energy": 0.561,
+      "danceability": 0.596,
+      "energy": 0.373,
       "key": 9,
-      "loudness": -6.886,
+      "loudness": -13.697,
       "mode": 1,
-      "speechiness": 0.0332,
-      "acousticness": 0.45,
+      "speechiness": 0.034,
+      "acousticness": 0.578,
       "instrumentalness": 0,
-      "liveness": 0.0921,
-      "valence": 0.495,
-      "tempo": 143.96,
+      "liveness": 0.0846,
+      "valence": 0.567,
+      "tempo": 144.45,
       "type": "audio_features",
-      "id": "3FyG3XJD5cUj4OfuyvYAgX",
-      "uri": "spotify:track:3FyG3XJD5cUj4OfuyvYAgX",
-      "track_href": "https://api.spotify.com/v1/tracks/3FyG3XJD5cUj4OfuyvYAgX",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3FyG3XJD5cUj4OfuyvYAgX",
-      "duration_ms": 399766,
+      "id": "3ZibjqwYJgKZmXc747FYq3",
+      "uri": "spotify:track:3ZibjqwYJgKZmXc747FYq3",
+      "track_href": "https://api.spotify.com/v1/tracks/3ZibjqwYJgKZmXc747FYq3",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZibjqwYJgKZmXc747FYq3",
+      "duration_ms": 284814,
       "time_signature": 4
     },
-    "Popularity": 21
+    "Popularity": 20
   },
   {
     "Status": {
@@ -3036,28 +3036,28 @@
     },
     "Country": 0,
     "Song Name": "Bhalo Theko - Recreated ভালো থেকো Cactuss New Band Song.wav",
-    "Tracking Id": "6xUbP2Xc1iBjTWFgxeInIa",
+    "Tracking Id": "7HKsCtskZx0NKsieRH8G4F",
     "Features": {
-      "danceability": 0.569,
-      "energy": 0.721,
-      "key": 1,
-      "loudness": -8.258,
+      "danceability": 0.463,
+      "energy": 0.771,
+      "key": 4,
+      "loudness": -4.534,
       "mode": 1,
-      "speechiness": 0.0335,
-      "acousticness": 0.0211,
-      "instrumentalness": 0.000132,
-      "liveness": 0.132,
-      "valence": 0.332,
-      "tempo": 127.97,
+      "speechiness": 0.0381,
+      "acousticness": 0.179,
+      "instrumentalness": 0.000122,
+      "liveness": 0.412,
+      "valence": 0.453,
+      "tempo": 118.015,
       "type": "audio_features",
-      "id": "6xUbP2Xc1iBjTWFgxeInIa",
-      "uri": "spotify:track:6xUbP2Xc1iBjTWFgxeInIa",
-      "track_href": "https://api.spotify.com/v1/tracks/6xUbP2Xc1iBjTWFgxeInIa",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6xUbP2Xc1iBjTWFgxeInIa",
-      "duration_ms": 357324,
+      "id": "7HKsCtskZx0NKsieRH8G4F",
+      "uri": "spotify:track:7HKsCtskZx0NKsieRH8G4F",
+      "track_href": "https://api.spotify.com/v1/tracks/7HKsCtskZx0NKsieRH8G4F",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7HKsCtskZx0NKsieRH8G4F",
+      "duration_ms": 374780,
       "time_signature": 4
     },
-    "Popularity": 2
+    "Popularity": 25
   },
   {
     "Status": {
@@ -3087,37 +3087,37 @@
       "duration_ms": 279119,
       "time_signature": 4
     },
-    "Popularity": 5
+    "Popularity": 6
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Bnaador.wav",
-    "Tracking Id": null,
+    "Tracking Id": "7lEE2AfrLagbd3BKriECVR",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.554,
+      "energy": 0.941,
+      "key": 1,
+      "loudness": -4.956,
+      "mode": 1,
+      "speechiness": 0.0581,
+      "acousticness": 0.0198,
+      "instrumentalness": 0,
+      "liveness": 0.321,
+      "valence": 0.706,
+      "tempo": 138.01,
+      "type": "audio_features",
+      "id": "7lEE2AfrLagbd3BKriECVR",
+      "uri": "spotify:track:7lEE2AfrLagbd3BKriECVR",
+      "track_href": "https://api.spotify.com/v1/tracks/7lEE2AfrLagbd3BKriECVR",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lEE2AfrLagbd3BKriECVR",
+      "duration_ms": 273154,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 19
   },
   {
     "Status": {
@@ -3301,33 +3301,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Chi Chi Chi ছিঃ ছিঃ ছিঃ Cactus Bangla Rock Band Song.wav",
-    "Tracking Id": null,
+    "Tracking Id": "4YeKqzkBJ8BdWwoUASsWQV",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.523,
+      "energy": 0.901,
+      "key": 6,
+      "loudness": -8.213,
+      "mode": 1,
+      "speechiness": 0.0554,
+      "acousticness": 0.000626,
+      "instrumentalness": 0.00194,
+      "liveness": 0.303,
+      "valence": 0.695,
+      "tempo": 141.976,
+      "type": "audio_features",
+      "id": "4YeKqzkBJ8BdWwoUASsWQV",
+      "uri": "spotify:track:4YeKqzkBJ8BdWwoUASsWQV",
+      "track_href": "https://api.spotify.com/v1/tracks/4YeKqzkBJ8BdWwoUASsWQV",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4YeKqzkBJ8BdWwoUASsWQV",
+      "duration_ms": 310141,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 5
   },
   {
     "Status": {
@@ -3541,63 +3541,63 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Eto Chaoa Niye Kotha Jai by Moheener Ghoraguli.wav",
-    "Tracking Id": null,
+    "Tracking Id": "2P9Alf61yfrkbY00Furqjx",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.479,
+      "energy": 0.156,
+      "key": 9,
+      "loudness": -15.256,
+      "mode": 1,
+      "speechiness": 0.0381,
+      "acousticness": 0.93,
+      "instrumentalness": 0,
+      "liveness": 0.161,
+      "valence": 0.453,
+      "tempo": 108.012,
+      "type": "audio_features",
+      "id": "2P9Alf61yfrkbY00Furqjx",
+      "uri": "spotify:track:2P9Alf61yfrkbY00Furqjx",
+      "track_href": "https://api.spotify.com/v1/tracks/2P9Alf61yfrkbY00Furqjx",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2P9Alf61yfrkbY00Furqjx",
+      "duration_ms": 270238,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 11
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Fire Eso Eka lakkhichhara ফিরে এস একা লক্ষীছাড়া LYRICS.wav",
-    "Tracking Id": null,
+    "Tracking Id": "15eDHBZpwZf09KwkirZnBT",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.604,
+      "energy": 0.536,
+      "key": 9,
+      "loudness": -5.557,
+      "mode": 1,
+      "speechiness": 0.0264,
+      "acousticness": 0.272,
+      "instrumentalness": 0.0000098,
+      "liveness": 0.176,
+      "valence": 0.196,
+      "tempo": 134.963,
+      "type": "audio_features",
+      "id": "15eDHBZpwZf09KwkirZnBT",
+      "uri": "spotify:track:15eDHBZpwZf09KwkirZnBT",
+      "track_href": "https://api.spotify.com/v1/tracks/15eDHBZpwZf09KwkirZnBT",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/15eDHBZpwZf09KwkirZnBT",
+      "duration_ms": 345052,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 12
   },
   {
     "Status": {
@@ -3636,28 +3636,28 @@
     },
     "Country": 0,
     "Song Name": "Fossils - Bishakto Manush.wav",
-    "Tracking Id": "3vcFb17pCNWzqoLOSnAieS",
+    "Tracking Id": "4XOevOLI1X5MDcd2UIo6KZ",
     "Features": {
-      "danceability": 0.338,
-      "energy": 0.487,
-      "key": 4,
-      "loudness": -6.455,
+      "danceability": 0.393,
+      "energy": 0.639,
+      "key": 5,
+      "loudness": -10.671,
       "mode": 0,
-      "speechiness": 0.0376,
-      "acousticness": 0.592,
-      "instrumentalness": 0,
-      "liveness": 0.112,
-      "valence": 0.15,
-      "tempo": 86.605,
+      "speechiness": 0.0367,
+      "acousticness": 0.187,
+      "instrumentalness": 0.00000212,
+      "liveness": 0.366,
+      "valence": 0.335,
+      "tempo": 136.551,
       "type": "audio_features",
-      "id": "3vcFb17pCNWzqoLOSnAieS",
-      "uri": "spotify:track:3vcFb17pCNWzqoLOSnAieS",
-      "track_href": "https://api.spotify.com/v1/tracks/3vcFb17pCNWzqoLOSnAieS",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vcFb17pCNWzqoLOSnAieS",
-      "duration_ms": 316266,
-      "time_signature": 5
+      "id": "4XOevOLI1X5MDcd2UIo6KZ",
+      "uri": "spotify:track:4XOevOLI1X5MDcd2UIo6KZ",
+      "track_href": "https://api.spotify.com/v1/tracks/4XOevOLI1X5MDcd2UIo6KZ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4XOevOLI1X5MDcd2UIo6KZ",
+      "duration_ms": 267469,
+      "time_signature": 4
     },
-    "Popularity": 17
+    "Popularity": 42
   },
   {
     "Status": {
@@ -3691,33 +3691,33 @@
   },
   {
     "Status": {
-      "Success": true,
-      "Message": "Successfully Retrieved Features"
+      "Success": false,
+      "Message": "This Song Is Absent In Spotify"
     },
     "Country": 0,
     "Song Name": "Ganga by Moheener Ghoraguli.wav",
-    "Tracking Id": "0DkytQE0L6N9bHUgbi8eVR",
+    "Tracking Id": null,
     "Features": {
-      "danceability": 0.385,
-      "energy": 0.22,
-      "key": 2,
-      "loudness": -12.755,
-      "mode": 1,
-      "speechiness": 0.0293,
-      "acousticness": 0.874,
-      "instrumentalness": 0,
-      "liveness": 0.0452,
-      "valence": 0.357,
-      "tempo": 149.57,
-      "type": "audio_features",
-      "id": "0DkytQE0L6N9bHUgbi8eVR",
-      "uri": "spotify:track:0DkytQE0L6N9bHUgbi8eVR",
-      "track_href": "https://api.spotify.com/v1/tracks/0DkytQE0L6N9bHUgbi8eVR",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DkytQE0L6N9bHUgbi8eVR",
-      "duration_ms": 260651,
-      "time_signature": 4
+      "danceability": null,
+      "energy": null,
+      "key": null,
+      "loudness": null,
+      "mode": null,
+      "speechiness": null,
+      "acousticness": null,
+      "instrumentalness": null,
+      "liveness": null,
+      "valence": null,
+      "tempo": null,
+      "type": null,
+      "id": null,
+      "uri": null,
+      "track_href": null,
+      "analysis_url": null,
+      "duration_ms": null,
+      "time_signature": null
     },
-    "Popularity": 6
+    "Popularity": null
   },
   {
     "Status": {
@@ -3781,33 +3781,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Ghreena.wav",
-    "Tracking Id": null,
+    "Tracking Id": "6Z3LdNx8yIOUM1oEL3yMDH",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.453,
+      "energy": 0.645,
+      "key": 2,
+      "loudness": -8.49,
+      "mode": 1,
+      "speechiness": 0.0339,
+      "acousticness": 0.151,
+      "instrumentalness": 0.000477,
+      "liveness": 0.124,
+      "valence": 0.127,
+      "tempo": 91.449,
+      "type": "audio_features",
+      "id": "6Z3LdNx8yIOUM1oEL3yMDH",
+      "uri": "spotify:track:6Z3LdNx8yIOUM1oEL3yMDH",
+      "track_href": "https://api.spotify.com/v1/tracks/6Z3LdNx8yIOUM1oEL3yMDH",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Z3LdNx8yIOUM1oEL3yMDH",
+      "duration_ms": 437131,
+      "time_signature": 5
     },
-    "Popularity": null
+    "Popularity": 23
   },
   {
     "Status": {
@@ -3905,29 +3905,29 @@
       "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
-    "Song Name": "Hansnuhana Fossils Rupam Islam Audio Song.wav",
-    "Tracking Id": "5fIWOnufnkAtDp9SDqRMD3",
+    "Song Name": "Haajar Bichhana.wav",
+    "Tracking Id": "63hdFZIL9g8LYE41aBuWHS",
     "Features": {
-      "danceability": 0.528,
-      "energy": 0.427,
-      "key": 4,
-      "loudness": -12.304,
+      "danceability": 0.535,
+      "energy": 0.886,
+      "key": 9,
+      "loudness": -6.101,
       "mode": 1,
-      "speechiness": 0.0548,
-      "acousticness": 0.27,
-      "instrumentalness": 0.0000218,
-      "liveness": 0.105,
-      "valence": 0.307,
-      "tempo": 133.127,
+      "speechiness": 0.0466,
+      "acousticness": 0.00721,
+      "instrumentalness": 0,
+      "liveness": 0.146,
+      "valence": 0.306,
+      "tempo": 136.014,
       "type": "audio_features",
-      "id": "5fIWOnufnkAtDp9SDqRMD3",
-      "uri": "spotify:track:5fIWOnufnkAtDp9SDqRMD3",
-      "track_href": "https://api.spotify.com/v1/tracks/5fIWOnufnkAtDp9SDqRMD3",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5fIWOnufnkAtDp9SDqRMD3",
-      "duration_ms": 294323,
+      "id": "63hdFZIL9g8LYE41aBuWHS",
+      "uri": "spotify:track:63hdFZIL9g8LYE41aBuWHS",
+      "track_href": "https://api.spotify.com/v1/tracks/63hdFZIL9g8LYE41aBuWHS",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/63hdFZIL9g8LYE41aBuWHS",
+      "duration_ms": 414629,
       "time_signature": 4
     },
-    "Popularity": 44
+    "Popularity": 32
   },
   {
     "Status": {
@@ -3961,63 +3961,63 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Hridoy Bhangbar Gaan.wav",
-    "Tracking Id": null,
+    "Tracking Id": "3sj71dCTBH5fSRRzoakDyz",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.365,
+      "energy": 0.741,
+      "key": 7,
+      "loudness": -7.344,
+      "mode": 1,
+      "speechiness": 0.042,
+      "acousticness": 0.000213,
+      "instrumentalness": 0.0000865,
+      "liveness": 0.22,
+      "valence": 0.351,
+      "tempo": 136.072,
+      "type": "audio_features",
+      "id": "3sj71dCTBH5fSRRzoakDyz",
+      "uri": "spotify:track:3sj71dCTBH5fSRRzoakDyz",
+      "track_href": "https://api.spotify.com/v1/tracks/3sj71dCTBH5fSRRzoakDyz",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sj71dCTBH5fSRRzoakDyz",
+      "duration_ms": 387376,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 21
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Janla.wav",
-    "Tracking Id": null,
+    "Tracking Id": "5rpxrUk6JTqLi7EYMKpB6C",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.66,
+      "energy": 0.52,
+      "key": 4,
+      "loudness": -9.183,
+      "mode": 0,
+      "speechiness": 0.0309,
+      "acousticness": 0.772,
+      "instrumentalness": 0.00248,
+      "liveness": 0.111,
+      "valence": 0.435,
+      "tempo": 89.997,
+      "type": "audio_features",
+      "id": "5rpxrUk6JTqLi7EYMKpB6C",
+      "uri": "spotify:track:5rpxrUk6JTqLi7EYMKpB6C",
+      "track_href": "https://api.spotify.com/v1/tracks/5rpxrUk6JTqLi7EYMKpB6C",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rpxrUk6JTqLi7EYMKpB6C",
+      "duration_ms": 316756,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 33
   },
   {
     "Status": {
@@ -4171,33 +4171,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Ke Ki Bole Lakkhichhara Indian Band Dabanol Bangla Song.wav",
-    "Tracking Id": null,
+    "Tracking Id": "4aJcakmoFh4Hx3vLCBWG2g",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.732,
+      "energy": 0.688,
+      "key": 5,
+      "loudness": -5.978,
+      "mode": 1,
+      "speechiness": 0.0334,
+      "acousticness": 0.0729,
+      "instrumentalness": 0.0000111,
+      "liveness": 0.0864,
+      "valence": 0.605,
+      "tempo": 119.317,
+      "type": "audio_features",
+      "id": "4aJcakmoFh4Hx3vLCBWG2g",
+      "uri": "spotify:track:4aJcakmoFh4Hx3vLCBWG2g",
+      "track_href": "https://api.spotify.com/v1/tracks/4aJcakmoFh4Hx3vLCBWG2g",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4aJcakmoFh4Hx3vLCBWG2g",
+      "duration_ms": 239361,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 7
   },
   {
     "Status": {
@@ -4261,33 +4261,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Koto Ki Korar Ache Baki কত কি করার আছে বাকি Moheener Ghoraguli.wav",
-    "Tracking Id": null,
+    "Tracking Id": "07L7thZFr4dZ9uhn4tTbwn",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.552,
+      "energy": 0.185,
+      "key": 9,
+      "loudness": -14.223,
+      "mode": 0,
+      "speechiness": 0.0298,
+      "acousticness": 0.855,
+      "instrumentalness": 0,
+      "liveness": 0.137,
+      "valence": 0.363,
+      "tempo": 86.746,
+      "type": "audio_features",
+      "id": "07L7thZFr4dZ9uhn4tTbwn",
+      "uri": "spotify:track:07L7thZFr4dZ9uhn4tTbwn",
+      "track_href": "https://api.spotify.com/v1/tracks/07L7thZFr4dZ9uhn4tTbwn",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/07L7thZFr4dZ9uhn4tTbwn",
+      "duration_ms": 308194,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 10
   },
   {
     "Status": {
@@ -4347,37 +4347,37 @@
       "duration_ms": 256654,
       "time_signature": 3
     },
-    "Popularity": 13
+    "Popularity": 14
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Lakkhichhara _ Palie Berai (I Hide Away) - Indian Band.wav",
-    "Tracking Id": null,
+    "Tracking Id": "7pJtJWpYlUw6XVsPoT46PS",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.713,
+      "energy": 0.483,
+      "key": 1,
+      "loudness": -7.604,
+      "mode": 0,
+      "speechiness": 0.0276,
+      "acousticness": 0.67,
+      "instrumentalness": 0.0019,
+      "liveness": 0.083,
+      "valence": 0.475,
+      "tempo": 139.929,
+      "type": "audio_features",
+      "id": "7pJtJWpYlUw6XVsPoT46PS",
+      "uri": "spotify:track:7pJtJWpYlUw6XVsPoT46PS",
+      "track_href": "https://api.spotify.com/v1/tracks/7pJtJWpYlUw6XVsPoT46PS",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7pJtJWpYlUw6XVsPoT46PS",
+      "duration_ms": 450326,
+      "time_signature": 5
     },
-    "Popularity": null
+    "Popularity": 5
   },
   {
     "Status": {
@@ -4561,93 +4561,93 @@
   },
   {
     "Status": {
+      "Success": false,
+      "Message": "This Song Is Absent In Spotify"
+    },
+    "Country": 0,
+    "Song Name": "Mohiner Ghoraguli (TAKE JATO TARAI DURE).wav",
+    "Tracking Id": null,
+    "Features": {
+      "danceability": null,
+      "energy": null,
+      "key": null,
+      "loudness": null,
+      "mode": null,
+      "speechiness": null,
+      "acousticness": null,
+      "instrumentalness": null,
+      "liveness": null,
+      "valence": null,
+      "tempo": null,
+      "type": null,
+      "id": null,
+      "uri": null,
+      "track_href": null,
+      "analysis_url": null,
+      "duration_ms": null,
+      "time_signature": null
+    },
+    "Popularity": null
+  },
+  {
+    "Status": {
       "Success": true,
       "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
-    "Song Name": "Mohiner Ghoraguli (TAKE JATO TARAI DURE).wav",
-    "Tracking Id": "7ccdaIudJgm1x7xvKBan6o",
-    "Features": {
-      "danceability": 0.773,
-      "energy": 0.322,
-      "key": 1,
-      "loudness": -14.83,
-      "mode": 0,
-      "speechiness": 0.0276,
-      "acousticness": 0.753,
-      "instrumentalness": 0.000156,
-      "liveness": 0.215,
-      "valence": 0.778,
-      "tempo": 110.079,
-      "type": "audio_features",
-      "id": "7ccdaIudJgm1x7xvKBan6o",
-      "uri": "spotify:track:7ccdaIudJgm1x7xvKBan6o",
-      "track_href": "https://api.spotify.com/v1/tracks/7ccdaIudJgm1x7xvKBan6o",
-      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ccdaIudJgm1x7xvKBan6o",
-      "duration_ms": 276977,
-      "time_signature": 4
-    },
-    "Popularity": 22
-  },
-  {
-    "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
-    },
-    "Country": 0,
     "Song Name": "Mohiner Ghoraguli - Bhikkhetei Jabo.wav",
-    "Tracking Id": null,
+    "Tracking Id": "3O9wxNvwoeWE9rhYfYXOvy",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.373,
+      "energy": 0.286,
+      "key": 7,
+      "loudness": -13.427,
+      "mode": 1,
+      "speechiness": 0.0417,
+      "acousticness": 0.904,
+      "instrumentalness": 0,
+      "liveness": 0.0965,
+      "valence": 0.445,
+      "tempo": 153.656,
+      "type": "audio_features",
+      "id": "3O9wxNvwoeWE9rhYfYXOvy",
+      "uri": "spotify:track:3O9wxNvwoeWE9rhYfYXOvy",
+      "track_href": "https://api.spotify.com/v1/tracks/3O9wxNvwoeWE9rhYfYXOvy",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3O9wxNvwoeWE9rhYfYXOvy",
+      "duration_ms": 338026,
+      "time_signature": 3
     },
-    "Popularity": null
+    "Popularity": 5
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Mohiner Ghoraguli - Jao Chhere Chole.wav",
-    "Tracking Id": null,
+    "Tracking Id": "05kYwfOZGxwNmKAo8RacWC",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.264,
+      "energy": 0.135,
+      "key": 4,
+      "loudness": -16.387,
+      "mode": 0,
+      "speechiness": 0.0408,
+      "acousticness": 0.901,
+      "instrumentalness": 0.000116,
+      "liveness": 0.115,
+      "valence": 0.353,
+      "tempo": 77.931,
+      "type": "audio_features",
+      "id": "05kYwfOZGxwNmKAo8RacWC",
+      "uri": "spotify:track:05kYwfOZGxwNmKAo8RacWC",
+      "track_href": "https://api.spotify.com/v1/tracks/05kYwfOZGxwNmKAo8RacWC",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/05kYwfOZGxwNmKAo8RacWC",
+      "duration_ms": 244011,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 6
   },
   {
     "Status": {
@@ -4681,93 +4681,93 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Mr Hall with lyrics Anjan Dutt Nagar Baul.wav",
-    "Tracking Id": null,
+    "Tracking Id": "3QkHJj73qxH0RxpiapsgkA",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.671,
+      "energy": 0.289,
+      "key": 4,
+      "loudness": -16.924,
+      "mode": 1,
+      "speechiness": 0.0313,
+      "acousticness": 0.71,
+      "instrumentalness": 0,
+      "liveness": 0.0829,
+      "valence": 0.585,
+      "tempo": 138.627,
+      "type": "audio_features",
+      "id": "3QkHJj73qxH0RxpiapsgkA",
+      "uri": "spotify:track:3QkHJj73qxH0RxpiapsgkA",
+      "track_href": "https://api.spotify.com/v1/tracks/3QkHJj73qxH0RxpiapsgkA",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3QkHJj73qxH0RxpiapsgkA",
+      "duration_ms": 339600,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 10
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Mrito Manush.wav",
-    "Tracking Id": null,
+    "Tracking Id": "12yFXFGFhVRvpNEcqNE5t1",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.522,
+      "energy": 0.941,
+      "key": 7,
+      "loudness": -6.216,
+      "mode": 0,
+      "speechiness": 0.0674,
+      "acousticness": 0.00153,
+      "instrumentalness": 0.00232,
+      "liveness": 0.104,
+      "valence": 0.356,
+      "tempo": 96.969,
+      "type": "audio_features",
+      "id": "12yFXFGFhVRvpNEcqNE5t1",
+      "uri": "spotify:track:12yFXFGFhVRvpNEcqNE5t1",
+      "track_href": "https://api.spotify.com/v1/tracks/12yFXFGFhVRvpNEcqNE5t1",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/12yFXFGFhVRvpNEcqNE5t1",
+      "duration_ms": 361907,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 19
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Mrityu.wav",
-    "Tracking Id": null,
+    "Tracking Id": "5cefQLNHQapc8NzSlMYIAl",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.516,
+      "energy": 0.906,
+      "key": 6,
+      "loudness": -5.593,
+      "mode": 1,
+      "speechiness": 0.0329,
+      "acousticness": 0.0154,
+      "instrumentalness": 0.000432,
+      "liveness": 0.0993,
+      "valence": 0.229,
+      "tempo": 96.085,
+      "type": "audio_features",
+      "id": "5cefQLNHQapc8NzSlMYIAl",
+      "uri": "spotify:track:5cefQLNHQapc8NzSlMYIAl",
+      "track_href": "https://api.spotify.com/v1/tracks/5cefQLNHQapc8NzSlMYIAl",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5cefQLNHQapc8NzSlMYIAl",
+      "duration_ms": 362407,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 17
   },
   {
     "Status": {
@@ -4827,67 +4827,67 @@
       "duration_ms": 296151,
       "time_signature": 4
     },
-    "Popularity": 20
+    "Popularity": 19
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Palachchhi Kothhaye Prithibi Rounak Graphic Novel Storytelling A Tribute To Irrfan Khan.wav",
-    "Tracking Id": null,
+    "Tracking Id": "2412BeHrgl3LZbKfCW7Ifl",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.565,
+      "energy": 0.582,
+      "key": 0,
+      "loudness": -9.694,
+      "mode": 1,
+      "speechiness": 0.0305,
+      "acousticness": 0.215,
+      "instrumentalness": 0.00467,
+      "liveness": 0.0968,
+      "valence": 0.557,
+      "tempo": 160.022,
+      "type": "audio_features",
+      "id": "2412BeHrgl3LZbKfCW7Ifl",
+      "uri": "spotify:track:2412BeHrgl3LZbKfCW7Ifl",
+      "track_href": "https://api.spotify.com/v1/tracks/2412BeHrgl3LZbKfCW7Ifl",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2412BeHrgl3LZbKfCW7Ifl",
+      "duration_ms": 321000,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 7
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Palao (Official Music Video) Fossils 5 Fossils.wav",
-    "Tracking Id": null,
+    "Tracking Id": "5V3zKxFG3YPHTPNauMyT2W",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.402,
+      "energy": 0.934,
+      "key": 7,
+      "loudness": -6.726,
+      "mode": 1,
+      "speechiness": 0.103,
+      "acousticness": 0.00348,
+      "instrumentalness": 0.00387,
+      "liveness": 0.113,
+      "valence": 0.458,
+      "tempo": 169.972,
+      "type": "audio_features",
+      "id": "5V3zKxFG3YPHTPNauMyT2W",
+      "uri": "spotify:track:5V3zKxFG3YPHTPNauMyT2W",
+      "track_href": "https://api.spotify.com/v1/tracks/5V3zKxFG3YPHTPNauMyT2W",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5V3zKxFG3YPHTPNauMyT2W",
+      "duration_ms": 312978,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 20
   },
   {
     "Status": {
@@ -5041,33 +5041,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Resolutions (Official Music Video) Fossils 4 Fossils.wav",
-    "Tracking Id": null,
+    "Tracking Id": "21EMghegsnSw6yr2j6pU2b",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.545,
+      "energy": 0.96,
+      "key": 6,
+      "loudness": -5.081,
+      "mode": 1,
+      "speechiness": 0.0601,
+      "acousticness": 0.00454,
+      "instrumentalness": 0.00000112,
+      "liveness": 0.317,
+      "valence": 0.403,
+      "tempo": 95.027,
+      "type": "audio_features",
+      "id": "21EMghegsnSw6yr2j6pU2b",
+      "uri": "spotify:track:21EMghegsnSw6yr2j6pU2b",
+      "track_href": "https://api.spotify.com/v1/tracks/21EMghegsnSw6yr2j6pU2b",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/21EMghegsnSw6yr2j6pU2b",
+      "duration_ms": 328581,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 17
   },
   {
     "Status": {
@@ -5101,33 +5101,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Shoytaan.wav",
-    "Tracking Id": null,
+    "Tracking Id": "6fbK9Yx5syNFpTUW6whpwH",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.477,
+      "energy": 0.82,
+      "key": 11,
+      "loudness": -5.28,
+      "mode": 1,
+      "speechiness": 0.0369,
+      "acousticness": 0.0114,
+      "instrumentalness": 0.0000297,
+      "liveness": 0.0719,
+      "valence": 0.412,
+      "tempo": 99.099,
+      "type": "audio_features",
+      "id": "6fbK9Yx5syNFpTUW6whpwH",
+      "uri": "spotify:track:6fbK9Yx5syNFpTUW6whpwH",
+      "track_href": "https://api.spotify.com/v1/tracks/6fbK9Yx5syNFpTUW6whpwH",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6fbK9Yx5syNFpTUW6whpwH",
+      "duration_ms": 451344,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 24
   },
   {
     "Status": {
@@ -5247,7 +5247,7 @@
       "duration_ms": 342845,
       "time_signature": 4
     },
-    "Popularity": 9
+    "Popularity": 10
   },
   {
     "Status": {
@@ -5311,33 +5311,33 @@
   },
   {
     "Status": {
-      "Success": false,
-      "Message": "This Song Is Absent In Spotify"
+      "Success": true,
+      "Message": "Successfully Retrieved Features"
     },
     "Country": 0,
     "Song Name": "Sweet heart 2 Chandrabindu.wav",
-    "Tracking Id": null,
+    "Tracking Id": "5Vm94z4KCIGtnJ0seGtT4t",
     "Features": {
-      "danceability": null,
-      "energy": null,
-      "key": null,
-      "loudness": null,
-      "mode": null,
-      "speechiness": null,
-      "acousticness": null,
-      "instrumentalness": null,
-      "liveness": null,
-      "valence": null,
-      "tempo": null,
-      "type": null,
-      "id": null,
-      "uri": null,
-      "track_href": null,
-      "analysis_url": null,
-      "duration_ms": null,
-      "time_signature": null
+      "danceability": 0.806,
+      "energy": 0.623,
+      "key": 9,
+      "loudness": -7.137,
+      "mode": 1,
+      "speechiness": 0.06,
+      "acousticness": 0.583,
+      "instrumentalness": 0,
+      "liveness": 0.143,
+      "valence": 0.965,
+      "tempo": 98.032,
+      "type": "audio_features",
+      "id": "5Vm94z4KCIGtnJ0seGtT4t",
+      "uri": "spotify:track:5Vm94z4KCIGtnJ0seGtT4t",
+      "track_href": "https://api.spotify.com/v1/tracks/5Vm94z4KCIGtnJ0seGtT4t",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Vm94z4KCIGtnJ0seGtT4t",
+      "duration_ms": 357748,
+      "time_signature": 4
     },
-    "Popularity": null
+    "Popularity": 25
   },
   {
     "Status": {
