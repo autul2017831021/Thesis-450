@@ -141,3 +141,7 @@ Node-JS Feature Extraction From Spotify/.env
 python Codes/*.xlsx
 Python Codes/*.json
 Ml Models/
+dummy/
+equal_amount_data/
+backup_csv1/
+correlated_csv1/
